@@ -4,3 +4,4 @@ tensorboard==1.0.0a6
 tensorflow-tensorboard==0.1.4
 pydot-ng==1.0.0
 matplotlib==1.5.3
+pandas==0.20.3
